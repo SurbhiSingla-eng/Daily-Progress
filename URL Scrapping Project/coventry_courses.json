@@ -1,0 +1,72 @@
+[
+    {
+        "program_course_name": "Law LLB (Hons)",
+        "university_name": "Coventry University",
+        "course_website_url": "https://www.coventry.ac.uk/course-structure/ug/fbl/law-llb-hons/?term=2026-27",
+        "campus": "Coventry",
+        "country": "United Kingdom",
+        "address": "Priory St, Coventry CV1 5FB, United Kingdom",
+        "study_level": "Undergraduate",
+        "course_duration": "3 Years",
+        "yearly_tuition_fee": "See Fees and Funding section on page",
+        "min_ielts": "6.0 or 6.5 (See requirements section)",
+        "mandatory_documents_required": "Academic Transcripts, Passport, LOR, SOP",
+        "scholarship_availability": "Check official website for latest international scholarships"
+    },
+    {
+        "program_course_name": "Accounting and Finance BSc (Hons)",
+        "university_name": "Coventry University",
+        "course_website_url": "https://www.coventry.ac.uk/course-structure/ug/fbl/accounting-and-finance-bsc-hons/?term=2026-27",
+        "campus": "Coventry",
+        "country": "United Kingdom",
+        "address": "Priory St, Coventry CV1 5FB, United Kingdom",
+        "study_level": "Undergraduate",
+        "course_duration": "3 Years",
+        "yearly_tuition_fee": "See Fees and Funding section on page",
+        "min_ielts": "6.0 or 6.5 (See requirements section)",
+        "mandatory_documents_required": "Academic Transcripts, Passport, LOR, SOP",
+        "scholarship_availability": "Check official website for latest international scholarships"
+    },
+    {
+        "program_course_name": "Business Management BA (Hons)",
+        "university_name": "Coventry University",
+        "course_website_url": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-management-ba-hons/?term=2026-27",
+        "campus": "Coventry",
+        "country": "United Kingdom",
+        "address": "Priory St, Coventry CV1 5FB, United Kingdom",
+        "study_level": "Undergraduate",
+        "course_duration": "3 Years",
+        "yearly_tuition_fee": "See Fees and Funding section on page",
+        "min_ielts": "6.0 or 6.5 (See requirements section)",
+        "mandatory_documents_required": "Academic Transcripts, Passport, LOR, SOP",
+        "scholarship_availability": "Check official website for latest international scholarships"
+    },
+    {
+        "program_course_name": "Automotive and Transport Design BA (Hons)",
+        "university_name": "Coventry University",
+        "course_website_url": "https://www.coventry.ac.uk/course-structure/ug/fah/automotive-and-transport-design-mdesba-hons/?term=2026-27",
+        "campus": "Coventry",
+        "country": "United Kingdom",
+        "address": "Priory St, Coventry CV1 5FB, United Kingdom",
+        "study_level": "Undergraduate",
+        "course_duration": "3 Years",
+        "yearly_tuition_fee": "See Fees and Funding section on page",
+        "min_ielts": "6.0 or 6.5 (See requirements section)",
+        "mandatory_documents_required": "Academic Transcripts, Passport, LOR, SOP",
+        "scholarship_availability": "Check official website for latest international scholarships"
+    },
+    {
+        "program_course_name": "Psychology BSc (Hons)",
+        "university_name": "Coventry University",
+        "course_website_url": "https://www.coventry.ac.uk/course-structure/ug/hls/psychology-bsc-hons/?term=2026-27",
+        "campus": "Coventry",
+        "country": "United Kingdom",
+        "address": "Priory St, Coventry CV1 5FB, United Kingdom",
+        "study_level": "Undergraduate",
+        "course_duration": "3 Years",
+        "yearly_tuition_fee": "See Fees and Funding section on page",
+        "min_ielts": "6.0 or 6.5 (See requirements section)",
+        "mandatory_documents_required": "Academic Transcripts, Passport, LOR, SOP",
+        "scholarship_availability": "Check official website for latest international scholarships"
+    }
+]
